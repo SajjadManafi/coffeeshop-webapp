@@ -1,6 +1,9 @@
 # coffeeshop-application
 coffee shop web application
 
+## Project Screen Record
+<a href="#"><img src="files/screen-record.gif"/></a>
+
 ## DDD (Clean Domain-Driven Design)
 <a href="#"><img src="files/ddd.png"/></a>
 
